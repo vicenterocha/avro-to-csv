@@ -33,7 +33,7 @@ Don't forget to activate the virtual environment.
 1. Run the app:
 
         cd src
-        python main.py <input avro file> <output csv file name>
+        python avro_to_csv.py <input avro file> <output csv file name>
 
 2. To deactivate the virtual environment:
     
