@@ -1,4 +1,4 @@
-# Simple scritp to convert avro files to csv
+# Simple script to convert avro files to csv
 
 
 ## Setup
